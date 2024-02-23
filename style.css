@@ -16,21 +16,18 @@
     font-weight: 700;
     font-style: normal;
 }
-   .first-font {
 
-       text-align: center;
-       font-weight: bold;
-       color: whitesmoke;
-       
-       font-size: 75px;
 
-   }    
-   .sec-font{
-                    text-align: center;
-                        font-weight: bold;
-                    color: whitesmoke;
-                        font-size: 75px;
-   }
+  .letter{
+
+        text-align: center;
+            font-weight: bold;
+            color: whitesmoke;
+        
+            font-size: 50px;
+
+  }
+   
    .para{
             text-align: center;
                
@@ -41,15 +38,19 @@
        text-align: center;
    }
 
-   .custom-button {
-       padding: 10px 20px;
-       border: none;
-       border-radius: 8px;
-       background-color: tomato;
-       color: white;
-       font-size: 16px;
-       cursor: pointer;
-       transition: background-color 0.3s ease;
+   .button {
+    padding: 10px 20px;
+        border: none;
+        border-radius: 8px;
+        text-decoration: none;
+        color: white;
+        font-size: 16px;
+        background-image: linear-gradient(tomato, red);
+        cursor: pointer;
+        display: block;
+        margin: 0 auto;
+        width: fit-content;
+        font-weight: 700;
    }
 
 
