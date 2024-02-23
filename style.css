@@ -172,4 +172,39 @@
                               font-size: 30px;
                  }
              
-                 }
+                    section{
+
+            display: flex;
+                    }
+                    .half-width{
+                        padding: 35px 95px 85px 20px; 
+             
+                        width: 100%;
+                       
+                    }
+                    .half-width p{
+                        width: 100%;
+                    }
+                    .box1{
+
+                        background-color: rgba(66, 68, 67, 0.338);
+                        padding: 38px 85px 95px 45px;
+                        margin-right:  -70px; 
+                        margin-left:25px;
+
+                    }
+                    .box2{
+
+                       background-color: rgba(224, 223, 222, 0.532);
+                    padding: 38px 85px 95px 45px;
+                            margin-right: -70px;
+
+                    }
+                    .box3{
+
+                       background-color: rgba(115, 78, 78, 0.522);
+                        padding: 38px 85px 95px 45px;
+                        margin-right: -70px;
+                          
+
+                    }
