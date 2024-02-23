@@ -26,6 +26,14 @@
             padding: 25px 20px 10px 12px;
         
             font-size: 35px;
+            background-image: url(images/donation13.jpg);
+                background-repeat: no-repeat;
+                height: 780px;
+           
+                
+                background-position: center;
+                background-repeat: no-repeat;
+                background-size: cover;
 
   }
    
@@ -59,13 +67,10 @@
 
 
    body{
-
-            background-image: url(images/donation13.jpg);
-            background-repeat: no-repeat;
-            height: 100%;
-            background-position: center;
-                background-repeat: no-repeat;
-                background-size: cover;
+            margin: 0;
+                padding: 0;
+                height: 100%;   
+           
    }
    p{
 
@@ -74,3 +79,10 @@
      
     
    }
+           .container {
+               height: 100%;
+               overflow-y: auto;
+              
+               scroll-behavior: smooth;
+             
+           }
