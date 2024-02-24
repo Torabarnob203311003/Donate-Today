@@ -250,8 +250,8 @@
                                 .contri-image-2{
 
 
-                                    width: 80%;
-                                        height:70%;
+                                    width: 150%;
+                                        height:50%;
                                     
                                         margin-left: -25px;
                                         margin-top: 95px;
@@ -261,7 +261,65 @@
 
                                         .left-section-2{
 
-                                    margin-left: -85px;
+                                    margin-left: 25%;
+                                            
 
 
                                         }
+
+                                 footer{
+
+                                 text-align: center;
+                                 background-color: black;
+                                 color: aliceblue;
+                                 padding-top:5% ;
+                                 margin-bottom: -20px;
+                                 margin-top: 0%;
+
+                                 }  
+                                 .footer{
+
+                                 padding-top:-12px ;
+                                 padding-bottom: 25px;
+
+                                 }
+                                 .updates{
+
+                                    text-align: center;
+                                    padding-top: -25px;
+                                    font-size: 25px;
+                                 }
+                    .problem{
+
+                      padding-bottom: -25%;
+                    }
+                    .email{
+                        display: flex;
+                        text-align: center ;
+                        width: 50%;
+                        height: 40%;
+                        margin-bottom: 20px;
+                        padding-left: 40%;
+
+
+                    }
+                    .left-mail{
+
+                      padding-right: 200px;
+                      color: rgb(221, 212, 212);
+                    background-color:gray;
+                    padding-left: 10px;
+                    margin-left: -80px;
+                    
+                    
+             
+
+                    }
+                    .right-mail{
+                              color: white;
+                              background-image: linear-gradient(tomato, rgb(255, 191, 0)
+                              );
+                              padding-left: 10px;
+                              padding-right: 10px;
+
+                    }
